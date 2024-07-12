@@ -1,0 +1,59 @@
+{
+    "facil": [
+      {
+        "nombre": "Jugador1",
+        "puntaje": 1500
+      },
+      {
+        "nombre": "Jugador2",
+        "puntaje": 1200
+      },
+      {
+        "nombre": "Jugador3",
+        "puntaje": 1000
+      }
+    ],
+    "medio": [
+      {
+        "nombre": "Jugador4",
+        "puntaje": 2300
+      },
+      {
+        "nombre": "Jugador5",
+        "puntaje": 2000
+      },
+      {
+        "nombre": "Jugador6",
+        "puntaje": 1800
+      }
+    ],
+    "avanzado": [
+      {
+        "nombre": "Jugador7",
+        "puntaje": 3200
+      },
+      {
+        "nombre": "Jugador8",
+        "puntaje": 2900
+      },
+      {
+        "nombre": "Jugador9",
+        "puntaje": 2700
+      }
+    ],
+    "extremo": [
+      {
+        "nombre": "Jugador10",
+        "puntaje": 4500
+      },
+      {
+        "nombre": "Jugador11",
+        "puntaje": 4300
+      },
+      {
+        "nombre": "Jugador12",
+        "puntaje": 4000
+      }
+    ]
+  }
+  
